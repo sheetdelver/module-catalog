@@ -1,0 +1,40 @@
+{
+  "schemaVersion": "sheet-delver-catalog.v1",
+  "generatedAt": 1788808258672,
+  "publisher": "sheetdelver",
+  "modules": {
+    "dnd5e": {
+      "moduleId": "dnd5e",
+      "title": "D&D 5th Edition",
+      "repository": "https://github.com/sheetdelver/sd-dnd5e",
+      "manifest": "https://github.com/sheetdelver/sd-dnd5e/releases/latest/download/sheet-delver-manifest.json",
+      "description": "Experimental D&D 5th Edition support for Sheet Delver",
+      "tags": [
+        "dnd5e",
+        "experimental"
+      ]
+    },
+    "morkborg": {
+      "moduleId": "morkborg",
+      "title": "Mork Borg",
+      "repository": "https://github.com/sheetdelver/sd-morkborg",
+      "manifest": "https://github.com/sheetdelver/sd-morkborg/releases/latest/download/sheet-delver-manifest.json",
+      "description": "Mork Borg support for Sheet Delver",
+      "tags": [
+        "morkborg",
+        "rules-light"
+      ]
+    },
+    "shadowdark": {
+      "moduleId": "shadowdark",
+      "title": "Shadowdark RPG",
+      "repository": "https://github.com/sheetdelver/sd-shadowdark",
+      "manifest": "https://github.com/sheetdelver/sd-shadowdark/releases/latest/download/sheet-delver-manifest.json",
+      "description": "Shadowdark RPG support for Sheet Delver",
+      "tags": [
+        "shadowdark",
+        "old-school"
+      ]
+    }
+  }
+}

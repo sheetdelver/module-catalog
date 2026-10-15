@@ -8,7 +8,7 @@
       "title": "D&D 5th Edition",
       "repository": "https://github.com/sheetdelver/sd-dnd5e",
       "manifest": "https://github.com/sheetdelver/sd-dnd5e/releases/latest/download/sheet-delver-manifest.json",
-      "description": "Experimental D&D 5th Edition support for Sheet Delver",
+      "description": "Experimental D&D 5th Edition support for SheetDelver",
       "tags": [
         "dnd5e",
         "experimental"
@@ -16,10 +16,10 @@
     },
     "morkborg": {
       "moduleId": "morkborg",
-      "title": "Mork Borg",
+      "title": "Mörk Borg",
       "repository": "https://github.com/sheetdelver/sd-morkborg",
       "manifest": "https://github.com/sheetdelver/sd-morkborg/releases/latest/download/sheet-delver-manifest.json",
-      "description": "Mork Borg support for Sheet Delver",
+      "description": "Mork Borg support for SheetDelver",
       "tags": [
         "morkborg",
         "rules-light"
@@ -30,7 +30,7 @@
       "title": "Shadowdark RPG",
       "repository": "https://github.com/sheetdelver/sd-shadowdark",
       "manifest": "https://github.com/sheetdelver/sd-shadowdark/releases/latest/download/sheet-delver-manifest.json",
-      "description": "Shadowdark RPG support for Sheet Delver",
+      "description": "Shadowdark RPG support for SheetDelver",
       "tags": [
         "shadowdark",
         "old-school"

@@ -19,7 +19,7 @@
       "title": "Mörk Borg",
       "repository": "https://github.com/sheetdelver/sd-morkborg",
       "manifest": "https://github.com/sheetdelver/sd-morkborg/releases/latest/download/sheet-delver-manifest.json",
-      "description": "Mork Borg support for SheetDelver",
+      "description": "Mörk Borg support for SheetDelver",
       "tags": [
         "morkborg",
         "rules-light"
